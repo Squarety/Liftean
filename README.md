@@ -1,3 +1,3 @@
 # Liftean
-Open-Source
-/!\ Downloadqc project in a other bracket ! /!\
+## Open-Source
+/!\ Downloadqc project in a other branche ! /!\
